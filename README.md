@@ -27,3 +27,6 @@ To use the simulation model, follow these steps:
 Run the simulation.
 
 Analyze the results obtained during the execution of the model.
+
+In the link, the FlexSim program is located.
+https://drive.google.com/file/d/18yK_R4OLlU10gb-21rq5U0sGwChcUmYa/view?usp=drive_link
